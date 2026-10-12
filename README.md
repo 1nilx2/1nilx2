@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm jskim
 
-<!--
-**1nilx2/1nilx2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer · Data Scientist
 
-Here are some ideas to get you started:
+I study and build machine learning systems across NLP, computer vision, and LLMs. My notes focus on how model architecture, training objectives, and evaluation connect to practical decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected writing
+
+- [Laya — Typed Decision Model](https://github.com/1nilx2/Deep-Learning/blob/main/notes/llm/laya.md): a bilingual walkthrough of typed questions, model architecture, and CE/RLCD losses.
+- [Training and optimization](https://github.com/1nilx2/Deep-Learning/blob/main/notes/foundations/training-and-optimization.md): working notes on gradients, backpropagation, calibration, and training efficiency.
+
+## Hands-on learning
+
+- [Machine Learning Notes & Labs](https://github.com/1nilx2/Deep-Learning): notebooks and explanations grouped by topic and purpose.
